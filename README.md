@@ -12,9 +12,10 @@ How to run the server
 ![Now the server is lisining to the port you provided](https://github.com/Aishwary2004Gupta/Node.js/assets/115387744/f0ee0d5f-c453-417b-b9b7-73ae7e11cbde)
 
 3) Go on to any web brower and type localhost:(port number)
+
 ![local Host](https://github.com/Aishwary2004Gupta/Node.js/assets/115387744/47e2e331-aaf2-492d-9af9-55d8b93f5824)
 
-4) to stop the server again go on the terminal and press (ctrl + c)
+5) to stop the server again go on the terminal and press (ctrl + c)
 
 4) Congrates you have made your first werb server... 
 
